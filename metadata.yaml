@@ -1,5 +1,8 @@
 _repo: Death-Valley-in-49--13-Important-chapter-of-California-pioneer-history.-The-autobiography-of-__12236
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Manly, William Lewis
@@ -21,6 +24,8 @@ description: William Lewis Manly (1820-1903) and his family left Vermont in 1828
   back east via the Isthmus, and his return to California and another try at prospecting
   on the North Fork of the Yuba at Downieville in 1851. He provides lively ancedotes
   of life in mining camps and of his visits to Stockton, Sacramento, and San Francisco.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12236#Death-Valley-in-49--13-Important-chapter-of-California-pioneer-history.-The-autobiography-of-_
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
